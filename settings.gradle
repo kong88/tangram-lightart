@@ -1,0 +1,7 @@
+include ':tangram'
+include ':app'
+
+File configFile = file('./config.gradle')
+if (configFile.exists()) {
+    apply from: './config.gradle'
+}
