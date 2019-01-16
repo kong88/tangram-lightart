@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="42dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_feedback"
+        android:layout_width="@dimen/gotop_width"
+        android:layout_height="@dimen/gotop_width"
+        android:layout_marginTop="7dp"
+        android:layout_marginRight="5dip"
+        android:background="@drawable/bg_top"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="2"
+        android:text="优化\n建议"
+        android:textSize="11dp"
+        tools:visibility="visible" />
+</LinearLayout>

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "container-oneColumn",
+    "items": [
+      {
+        "url":"https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "显示有货",
+        "type": "test1",
+        "style": {
+
+        }
+      }
+    ]
+  },
+  {
+    "type": "container-waterfall",
+    "id": "BuyCate",
+    "style": {
+      "hGap": "15",
+      "vGap": "15",
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "padding": [
+        "15",
+        "15",
+        "15",
+        "15"
+      ]
+    },
+    "items": [
+      {
+        "title": "连衣裙",
+        "desc" : "欧昵雪2018新款韩版时尚女装春秋季清新田园印花子修身百搭打底裙通勤复古淑女休闲长袖显瘦气质碎花连衣裙",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvop/00605481/10028114/901066053-20905726862303232-20905726862303234-50_5t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "Ecco商务皮鞋",
+        "desc" : "ECCO爱步潮流舒适休闲皮鞋 系带磨砂皮圆头低帮男鞋",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvis/2017/09/10/31/f39878ad-dcbb-4302-a15d-cc68c14c5371_t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "连衣裙",
+        "desc" : "百图betu女装-百变通勤女王",
+        "imgUrl": "http://a.vpimg2.com/upload/merchandise/pdcvis/2016/12/30/111/067d57e1-d1be-4672-8b9e-62ec985b0a25.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "Nike商务皮鞋",
+        "desc" : " 系带磨砂皮圆头低帮男鞋",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvis/2017/09/10/31/f39878ad-dcbb-4302-a15d-cc68c14c5371_t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "Addidas",
+        "desc" : "欧昵雪2018新款韩版时尚女装春秋季清新田园印花子修身百搭打底裙通勤复古淑女休闲长袖显瘦气质碎花连衣裙",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvop/00605481/10028114/901066053-20905726862303232-20905726862303234-50_5t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "特步",
+        "desc" : "ECCO爱步潮流舒适休闲皮鞋 系带磨砂皮圆头低帮男鞋",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvis/2017/09/10/31/f39878ad-dcbb-4302-a15d-cc68c14c5371_t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "361",
+        "desc" : "欧昵雪2018新款韩版时尚女装春秋季清新田园印花子修身百搭打底裙通勤复古淑女休闲长袖显瘦气质碎花连衣裙",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvop/00605481/10028114/901066053-20905726862303232-20905726862303234-50_5t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "Ecco商务皮鞋",
+        "desc" : "ECCO爱步潮流舒适休闲皮鞋 系带磨砂皮圆头低帮男鞋",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvis/2017/09/10/31/f39878ad-dcbb-4302-a15d-cc68c14c5371_t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "新百伦",
+        "desc" : "欧昵雪2018新款韩版时尚女装春秋季清新田园印花子修身百搭打底裙通勤复古淑女休闲长袖显瘦气质碎花连衣裙",
+        "imgUrl": "http://a.vpimg3.com/upload/merchandise/pdcvis/606725/2018/1015/108/bb86fe1a-d8f7-4c46-b57e-c6b424b235a0_5t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "美特斯",
+        "desc" : "ECCO爱步潮流舒适休闲皮鞋 系带磨砂皮圆头低帮男鞋",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvis/2017/09/10/31/f39878ad-dcbb-4302-a15d-cc68c14c5371_t.jpg",
+        "type": "productView"
+      }
+    ]
+  },
+  {
+    "type":"container-float",
+    "style": {
+      "align": "bottom_right",
+      "x": 10,
+      "y": 100
+    },
+    "items": [
+      {
+        "type": "testView",
+        "action": "xxx",
+        "imgUrl": "https://img.alicdn.com/tps/TB11Y5hPVXXXXbaXpXXXXXXXXXX-186-158.png",
+        "style": {
+          "margin": [
+            10,
+            10,
+            10,
+            10
+          ],
+          "height": 50,
+          "width": 50
+        }
+      }
+    ]
+  }
+]

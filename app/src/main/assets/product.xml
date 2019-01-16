@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+        flag="flag_exposure|flag_clickable"
+        action="action"
+        layoutWidth="match_parent"
+        layoutHeight="84rp"
+        background="#FFFFFF">
+
+    <NImage
+            layoutWidth="48rp"
+            layoutHeight="48rp"
+            layoutMarginLeft="34rp"
+            layoutGravity="left|v_center"
+            src="${imgUrl}"
+            scaleType="center_crop"
+    />
+    <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            layoutMarginLeft="94rp"
+            text="${title}"
+            layoutGravity="left|v_center"
+            textSize="28rp"
+            textColor="#555555"
+    />
+    <NText
+            layoutWidth="wrap_content"
+            layoutHeight="wrap_content"
+            layoutMarginRight="50rp"
+            layoutGravity="right|v_center"
+            textSize="28rp"
+            text="${subtitle}"
+            textColor="${subtitleColor}"/>
+
+
+</FrameLayout>

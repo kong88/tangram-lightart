@@ -49,6 +49,8 @@
         </activity>
         <activity android:name=".TangramDataParserActivity">
         </activity>
+        <activity android:name=".Tangram2Activity" />
+        <activity android:name=".HistoryActivity" />
     </application>
 
 </manifest>

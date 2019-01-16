@@ -54,17 +54,20 @@ public class DemoListActivity extends ListActivity {
         setContentView(android.R.layout.list_content);
         List<Map<String, String>> list = new ArrayList<Map<String, String>>();
         HashMap<String, String> parse = new HashMap<String, String>();
-        parse.put("name", "基本Tangram");
+        parse.put("name", "Tangram");
         parse.put("class", TangramActivity.class.getName());
         list.add(parse);
         HashMap<String, String> api = new HashMap<String, String>();
-        api.put("name", "响应式Tangram");
-        api.put("class", RxTangramActivity.class.getName());
+        api.put("name", "基础Tangram");
+        api.put("class", Tangram2Activity.class.getName());
         list.add(api);
-        HashMap<String, String> bizItems = new HashMap<String, String>();
-        bizItems.put("name", "自定义数据解析");
-        bizItems.put("class", TangramDataParserActivity.class.getName());
-        list.add(bizItems);
+
+        HashMap<String, String> api2 = new HashMap<String, String>();
+        api2.put("name", "足迹");
+        api2.put("class", HistoryActivity.class.getName());
+        list.add(api2);
+
+
         ListAdapter listAdapter = new SimpleAdapter(this, list, android.R.layout.simple_list_item_1, new String[]{"name"}, new int[]{android.R.id.text1});
         setListAdapter(listAdapter);
     }

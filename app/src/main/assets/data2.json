@@ -1,0 +1,296 @@
+[
+  {
+    "type": "container-scroll",
+    "style": {
+      "pageWidth": 200,
+      "hGap": 100,
+      "pageHeight": 100
+    },
+    "items": [
+      {
+        "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "标题1",
+        "type": "vvtest"
+      },
+      {
+        "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "标题2",
+        "type": "vvtest"
+      },
+      {
+        "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "标题3",
+        "type": "vvtest"
+      },
+      {
+        "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "标题4",
+        "type": "vvtest"
+      }
+    ]
+  },
+  {
+    "type": "container-sticky",
+    "style": {
+      "sticky": "start"
+    },
+    "items": [
+      {
+        "type": "testView",
+        "msg": "sticky",
+        "style": {
+        }
+      }
+    ]
+  },
+  {
+    "type": "container-oneColumn",
+    "items": [
+      {
+//        "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+//        "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "暴走大事件第五季暴走大事件第五季暴走大事件第五季",
+        "play": "23343454",
+        "danmu": "13234",
+
+        "type": "Debug"
+      },
+      {
+//        "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+//        "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "说说你在B站的故事",
+        "play": "5445667",
+        "danmu": "2134",
+
+        "type": "Debug"
+      },
+      {
+//        "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+//        "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "切格瓦拉东京偷车切格瓦拉东京偷车切格瓦拉东京偷车",
+        "play": "496",
+        "danmu": "23",
+
+        "type": "Debug"
+      },
+      {
+//        "imgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+//        "arrowImgUrl": "https://gw.alicdn.com/tfs/TB1vqF.PpXXXXaRaXXXXXXXXXXX-110-72.png",
+        "title": "Five to Go 大学生短片",
+        "play": "369",
+        "danmu": "5",
+
+        "type": "Debug"
+      }
+    ]
+  },
+
+  {
+    "type":"container-banner",
+    "style": {
+      "pageWidth": 200,
+      "pageHeight": 100,
+      "indicatorMargin": "5",
+      "infinite": "true",
+      "indicatorImg2": "https://img.alicdn.com/tps/TB1XRNFNXXXXXXKXXXXXXXXXXXX-32-4.png",
+      "indicatorImg1": "https://img.alicdn.com/tps/TB16i4qNXXXXXbBXFXXXXXXXXXX-32-4.png",
+      "scrollMarginLeft": "10",
+      "indicatorGap": "2",
+      "indicatorHeight": "1.5",
+      "itemRatio": "2.654",
+      "scrollMarginRight": "10",
+      "indicatorGravity": "center",
+      "hGap": "20"
+    },
+    "items": [
+      {
+        "type": "testView",
+        "msg": "info1",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info2",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info3",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info4",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info5",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info6",
+        "style": {
+        }
+      }
+    ]
+  },
+
+
+  {
+    "id": "BuyCate",
+    "style": {
+      "hGap": "15",
+      "vGap": "15",
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "padding": [
+        "15",
+        "15",
+        "15",
+        "15"
+      ]
+    },
+    "type": "container-waterfall",
+    "items": [
+      {
+        "title": "连衣裙",
+        "desc" : "欧昵雪2018新款韩版时尚女装春秋季清新田园印花子修身百搭打底裙通勤复古淑女休闲长袖显瘦气质碎花连衣裙",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvop/00605481/10028114/901066053-20905726862303232-20905726862303234-50_5t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "Ecco商务皮鞋",
+        "desc" : "ECCO爱步潮流舒适休闲皮鞋 系带磨砂皮圆头低帮男鞋",
+        "imgUrl" : "http://a.vpimg3.com/upload/merchandise/pdcvis/2017/09/10/31/f39878ad-dcbb-4302-a15d-cc68c14c5371_t.jpg",
+        "type": "productView"
+      },
+      {
+        "title": "C",
+        "type": 110
+      },
+      {
+        "title": "D",
+        "type": 110
+      },
+      {
+        "title": "E",
+        "type": "testView"
+      },
+      {
+        "title": "F",
+        "type": "testView"
+      },
+      {
+        "title": "G",
+        "type": "testView"
+      },
+      {
+        "title": "H",
+        "type": "testView"
+      },
+      {
+        "title": "I",
+        "type": "testView"
+      },
+      {
+        "title": "G",
+        "type": "testView"
+      }
+    ]
+  },
+  {
+    "type": "container-banner",
+    "id": "banner2",
+    "style": {
+      "indicatorImg1": "https://gw.alicdn.com/tps/TB16RaxLpXXXXbIXFXXXXXXXXXX-14-14.png",
+      "indicatorImg2": "https://gw.alicdn.com/tps/TB1m79uLpXXXXXUXVXXXXXXXXXX-18-16.png",
+      "indicatorGravity": "center",
+      "indicatorPosition": "inside",
+      "indicatorMargin": 10,
+      "indicatorGap": 2,
+      "scrollMarginLeft": 20,
+      "scrollMarginRight": 20,
+      "hGap": 12,
+      "pageRatio": 0.5,
+      "bgColor": "#ffffff"
+    },
+    "items": [
+      {
+        "type": "testView",
+        "msg": "info11",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info12",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info13",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info14",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info15",
+        "style": {
+        }
+      },
+      {
+        "type": "testView",
+        "msg": "info16",
+        "style": {
+        }
+      }
+    ]
+  },
+  {
+    "type":"container-float",
+    "style": {
+      "align": "bottom_left",
+      "x": 10,
+      "y": 100
+    },
+    "items": [
+      {
+        "type": "testView",
+        "action": "xxx",
+        "imgUrl": "https://img.alicdn.com/tps/TB11Y5hPVXXXXbaXpXXXXXXXXXX-186-158.png",
+        "style": {
+          "margin": [
+            10,
+            10,
+            10,
+            10
+          ],
+          "height": 50,
+          "width": 50
+        }
+      }
+    ]
+  }
+]

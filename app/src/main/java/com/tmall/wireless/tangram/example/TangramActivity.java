@@ -84,7 +84,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by villadora on 15/8/18.
+ *
  */
 public class TangramActivity extends Activity {
 

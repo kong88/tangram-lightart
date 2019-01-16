@@ -349,6 +349,7 @@ public class Style {
                 return integer.intValue();
             }
         } catch (Exception e) {
+            e.printStackTrace();
             return defaultColor;
         }
     }
